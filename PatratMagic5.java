@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cumparaturi {
+public class PatratMagic5 {//the main class MUST has the same name with the file
     public static void main(String args[]) {
         int latura;
         Scanner in = new Scanner(System.in);
